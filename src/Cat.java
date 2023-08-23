@@ -1,5 +1,5 @@
 public class Cat {
 
-    private String colors;
+    private String color;
 
 }
