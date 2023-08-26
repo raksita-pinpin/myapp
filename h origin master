@@ -1,0 +1,20 @@
+*   [33m853bec7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge branch 'feature'
+[31m|[m[32m\[m  
+[31m|[m * [33m9331c64[m[33m ([m[1;32mfeature[m[33m)[m Add x
+* [32m|[m [33m7590012[m Update Cat.java by master
+* [32m|[m [33mf69af55[m Update Cat.java on feature2 branch
+* [32m|[m [33m0b97521[m update z
+* [32m|[m [33m1f2fcbf[m Add z
+* [32m|[m [33m0dd9879[m Add z
+* [32m|[m   [33m6b0f344[m Merge branch 'feature2'
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m|[m [33m0b3f0c5[m[33m ([m[1;32mfeature2[m[33m)[m Update Cat.java on feature2 branch
+* [34m|[m [32m|[m [33mc3d1a5f[m Update Cat.java by master
+[34m|[m[34m/[m [32m/[m  
+* [32m|[m [33meeffc36[m Add x
+[35m|[m[32m\[m[32m|[m 
+[35m|[m * [33m421cc7f[m Add x
+* [36m|[m [33m955999f[m Add y
+[36m|[m[36m/[m  
+* [33mc32b6d0[m Update Cat and add Dog
+* [33mf606e56[m initial commit : add Cat
